@@ -1,0 +1,57 @@
+.mapboxgl-popup {
+  max-width: 150px;
+}
+
+.mapboxgl-popup-content {
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+}
+
+.big-cont{
+  display: flex;
+  flex-direction: column;
+}
+
+.img-cont{
+  display: flex;
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.mapboxgl-popup-content img{
+  width: 50%;
+  height: 50%;
+}
+
+.mapboxgl-popup-close-button {
+  width: 20px;
+  color: #1B1717;
+}
+
+.mapboxgl-popup-close-button:hover{
+  background-color: #E60F05 !important;
+  color: #FCF3EE;
+  transition: 0.5s;
+}
+
+.marker {
+  background-image: url('../../images/Icon_Red.svg');
+  background-size: cover;
+  width: 30px;
+  height: 30px;
+  border-radius: 25%;
+  cursor: pointer;
+}
+
+#map {
+  margin-top: 1rem;
+  border-radius: 0.5rem;
+}

@@ -1,0 +1,122 @@
+{
+  "type": "Featureollection",
+  "feature": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-65.719,-26.848]
+      },
+      "properties": {
+        "title": "Pato",
+
+ "role": "teacher",       "description": "Is a programming duck 🦆 🇦🇷",
+        "image": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1656493299/xvxauycclopeutrxowbc.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.426,-34.586]
+      },
+    "properties": {
+      "title": "Sofi",
+      "role": "teacher",
+      "description": "Esto era Palermo viejo 🇦🇷",
+        "image": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1665431117/kcrwew7aqzfif959bhrm.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.839,50.738]
+      },
+    "properties": {
+      "title": "Camila",
+      "role": "teacher",
+      "description": "Brasilian 🇧🇷, not Portuguese 🇵🇹",
+        "image": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1670964687/i9v59naxnf3pekekvqkk.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.078,59.333]
+      },
+    "properties": {
+      "title": "Philip",
+      "role": "teacher",
+      "description": "As Swedish as Ikea 🇸🇪",
+        "image": "https://avatars.githubusercontent.com/u/88148246?v=4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.811,46.162]
+      },
+    "properties": {
+      "title": "Lucia",
+      "role": "teacher",
+      "description": "Lindas human 🐶",
+        "image": "https://avatars.githubusercontent.com/u/79268979?v=4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.442,47.073]
+      },
+    "properties": {
+      "title": "Sarah",
+      "role": "teacher",
+      "description": "Scharwtzeneger's neighbour 🇦🇹",
+        "image" : "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1556048247/ymehhwjerbyrghdubep5.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.099,51.527]
+      },
+    "properties": {
+      "title": "Tom",
+      "role": "teacher",
+      "description": "3% Welsh 🏴󠁧󠁢󠁷󠁬󠁳󠁿, loves photography 📸",
+        "image": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1665596207/og5y3s69gqutiqbduar8.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.874,43.610]
+      },
+    "properties": {
+      "title": "Ben",
+      "role": "teacher",
+      "description": "French by day, still French by night 🇫🇷",
+        "image": "https://avatars.githubusercontent.com/u/43788107?v=4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.290,46.181]
+      },
+    "properties": {
+      "title": "Hippo",
+      "role": "teacher",
+      "description": "Not an actual hippo 🦛",
+        "image" : "https://avatars.githubusercontent.com/u/106833120?v=4"
+      }
+    }
+  ]
+}

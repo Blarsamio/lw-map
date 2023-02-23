@@ -1,0 +1,187 @@
+{
+  "type": "Featureollection",
+  "feature": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.776,40.412]
+      },
+      "properties": {
+        "title": "Fatima",
+
+ "role": "student",       "description": "Very trendy, very sweet azerbaijani 🇦🇿",
+        "image": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1656493299/xvxauycclopeutrxowbc.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.776,40.412]
+      },
+    "properties": {
+      "title": "Fahkriya",
+      "role": "student",
+      "description": "AKA Fa, chemist by day, dev by night 🇦🇿",
+        "image": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1665431117/kcrwew7aqzfif959bhrm.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.538,21.564]
+      },
+    "properties": {
+      "title": "Greggoire",
+      "role": "student",
+      "description": "Cuban, French and Russian 🇨🇺🇫🇷🇷🇺",
+        "image": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1670964687/i9v59naxnf3pekekvqkk.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.965,41.181]
+      },
+    "properties": {
+      "title": "Ayse",
+      "role": "student",
+      "description": "Mechanical engeneer from Istanbul 🇹🇷",
+        "image": "https://avatars.githubusercontent.com/u/88148246?v=4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.036,-9.245]
+      },
+    "properties": {
+      "title": "Genevieve",
+      "role": "student",
+      "description": "Argentinian from Peru, pronounces Twitter as Tweetta 🇵🇪",
+        "image": "https://avatars.githubusercontent.com/u/79268979?v=4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.147,41.383]
+      },
+    "properties": {
+      "title": "Angie",
+      "role": "student",
+      "description": "Kira's human, speaks Chinese 🇨🇳🇪🇸",
+        "image" : "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1556048247/ymehhwjerbyrghdubep5.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.885,-32.882]
+      },
+    "properties": {
+      "title": "Mariana",
+      "role": "student",
+      "description": "Civil engineer, not Susana's cousin 🇦🇷",
+        "image": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1665596207/og5y3s69gqutiqbduar8.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-46.596,-23.683]
+      },
+    "properties": {
+      "title": "Bruno",
+      "role": "student",
+      "description": "50 years of work experience, has an F1 podcast 🇧🇷",
+        "image": "https://avatars.githubusercontent.com/u/43788107?v=4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.092,59.940]
+      },
+    "properties": {
+      "title": "Polina",
+      "role": "student",
+      "description": "Pastry chef, radio engeener and guitar player 🇷🇺",
+        "image" : "https://avatars.githubusercontent.com/u/106833120?v=4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.969,31.398]
+      },
+    "properties": {
+      "title": "Oren",
+      "role": "student",
+      "description": "Living in Switzerland, loves to travel and wearing caps 🇨🇭🇮🇱",
+        "image" : "https://avatars.githubusercontent.com/u/106833120?v=4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [145.055,-37.978]
+      },
+    "properties": {
+      "title": "Tahli",
+      "role": "student",
+      "description": "Blair's human, very fashionable Aussie 🇦🇺",
+        "image" : "https://avatars.githubusercontent.com/u/106833120?v=4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.006,41.583]
+      },
+    "properties": {
+      "title": "Andres",
+      "role": "student",
+      "description": "Class youngest, as catalan as calçots 🇪🇸",
+        "image" : "https://avatars.githubusercontent.com/u/106833120?v=4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.195,41.437]
+      },
+    "properties": {
+      "title": "Linda",
+      "role": "student",
+      "description": "Not Lucia's dog, loves swimming and the beach 🇪🇸",
+        "image" : "https://avatars.githubusercontent.com/u/106833120?v=4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.048,64.900]
+      },
+    "properties": {
+      "title": "Esther",
+      "role": "student",
+      "description": "Mother of six, speaks five languages 🇫🇮",
+        "image" : "https://avatars.githubusercontent.com/u/106833120?v=4"
+      }
+    }
+  ]
+}
