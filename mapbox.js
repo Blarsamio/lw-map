@@ -1,15 +1,19 @@
-import { auto } from "@popperjs/core";
-import { autoComplete } from "./autocomplete";
+import mapboxgl from 'mapbox-gl';
 
-mapboxgl.accessToken =
+
+
+const mapCreate = () => {
+  mapboxgl.accessToken =
   "pk.eyJ1IjoiYmxhcnNhbWlvIiwiYSI6ImNsZHZnZGkxajA4MmMzcHBvdDlyd3R2cGYifQ.R3ziQthrUx4rYtcuhR72qw";
+  const map = new mapboxgl.Map({
+    container: "mapp",
+    style: "mapbox://styles/blarsamio/cldx5aczo005g01plm6fuv7rw",
+    center: [2.163, 41.399],
+    zoom: 5,
+  });
+};
 
-const map = new mapboxgl.Map({
-  container: "map",
-  style: "mapbox://styles/blarsamio/cldx5aczo005g01plm6fuv7rw",
-  center: [2.163, 41.399],
-  zoom: 5,
-});
+mapCreate();
 
 const teacherButton = document.querySelector("#teacher");
 const studentButton = document.querySelector("#student");
@@ -50,14 +54,14 @@ const fetching = (geojson, markerType) => {
             new mapboxgl.Popup({ offset: 25 }) // add popups
               .setHTML(
                 `<div class="big-cont">
-                          <div class="img-cont">
-                            <img src="${feature.properties.image}"
-                          </div>
-                          <div class="content">
-                            <h2>${feature.properties.title}</h2>
-                            <p>${feature.properties.description}</p>
-                          </div>
-                          </div>`
+                    <div class="img-cont">
+                      <img src="${feature.properties.image}">
+                    </div>
+                    <div class="content">
+                      <h2>${feature.properties.title}</h2>
+                      <p>${feature.properties.description}</p>
+                    </div>
+                  </div>`
               )
           )
           .addTo(map);
@@ -69,17 +73,22 @@ const flyingTo = (geojson) => {
   const searchButton = document.querySelector(".fa-magnifying-glass");
   searchButton.addEventListener("click", (target) => {
     target = document.querySelector("input").value;
-    fetch(geojson).then((response) => response.json()).then((data) => {
-      for (const feature of data.feature) {
-        if (feature.properties.title == target) {
-          const coor = feature.geometry.coordinates;
-          map.flyTo({
-            center: coor,
-            zoom: 10,
-            speed: 1,
-          });
-        };
-      };
-    });
+    fetch(geojson)
+      .then((response) => response.json())
+      .then((data) => {
+        for (const feature of data.feature) {
+          if (feature.properties.title == target) {
+            const coor = feature.geometry.coordinates;
+            map.flyTo({
+              center: coor,
+              zoom: 10,
+              speed: 1,
+              pitch: 60,
+              bearing: -60,
+              antialias: true,
+            });
+          }
+        }
+      });
   });
 };

@@ -5,51 +5,52 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [47.776,40.412]
+        "coordinates": [47.776, 40.412]
       },
       "properties": {
         "title": "Fatima",
 
- "role": "student",       "description": "Very trendy, very sweet azerbaijani 🇦🇿",
-        "image": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1656493299/xvxauycclopeutrxowbc.jpg"
+        "role": "student",
+        "description": "Very trendy, very sweet azerbaijani 🇦🇿",
+        "image": "https://avatars.githubusercontent.com/u/119234306?v=4"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [48.776,40.412]
+        "coordinates": [48.776, 40.412]
       },
-    "properties": {
-      "title": "Fahkriya",
-      "role": "student",
-      "description": "AKA Fa, chemist by day, dev by night 🇦🇿",
-        "image": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1665431117/kcrwew7aqzfif959bhrm.jpg"
+      "properties": {
+        "title": "Fahkriya",
+        "role": "student",
+        "description": "AKA Fa, chemist by day, dev by night 🇦🇿",
+        "image": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1673904127/flwnvqjcebve0vjtbf7f.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.538,21.564]
+        "coordinates": [-79.538, 21.564]
       },
-    "properties": {
-      "title": "Greggoire",
-      "role": "student",
-      "description": "Cuban, French and Russian 🇨🇺🇫🇷🇷🇺",
-        "image": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1670964687/i9v59naxnf3pekekvqkk.jpg"
+      "properties": {
+        "title": "Greggoire",
+        "role": "student",
+        "description": "Cuban, French and Russian 🇨🇺🇫🇷🇷🇺",
+        "image": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1675930830/roewp0ye9sfhqjfdx89b.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [28.965,41.181]
+        "coordinates": [28.965, 41.181]
       },
-    "properties": {
-      "title": "Ayse",
-      "role": "student",
-      "description": "Mechanical engeneer from Istanbul 🇹🇷",
+      "properties": {
+        "title": "Ayse",
+        "role": "student",
+        "description": "Mechanical engeneer from Istanbul 🇹🇷",
         "image": "https://avatars.githubusercontent.com/u/88148246?v=4"
       }
     },
@@ -57,130 +58,130 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.036,-9.245]
+        "coordinates": [-75.036, -9.245]
       },
-    "properties": {
-      "title": "Genevieve",
-      "role": "student",
-      "description": "Argentinian from Peru, pronounces Twitter as Tweetta 🇵🇪",
-        "image": "https://avatars.githubusercontent.com/u/79268979?v=4"
+      "properties": {
+        "title": "Genevieve",
+        "role": "student",
+        "description": "Argentinian from Peru, pronounces Twitter as Tweetta 🇵🇪",
+        "image": "https://avatars.githubusercontent.com/u/121232760?v=4"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [2.147,41.383]
+        "coordinates": [2.147, 41.383]
       },
-    "properties": {
-      "title": "Angie",
-      "role": "student",
-      "description": "Kira's human, speaks Chinese 🇨🇳🇪🇸",
-        "image" : "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1556048247/ymehhwjerbyrghdubep5.jpg"
+      "properties": {
+        "title": "Angie",
+        "role": "student",
+        "description": "Kira's human, speaks Chinese 🇨🇳🇪🇸",
+        "image": "https://avatars.githubusercontent.com/u/62017211?v=4"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-68.885,-32.882]
+        "coordinates": [-68.885, -32.882]
       },
-    "properties": {
-      "title": "Mariana",
-      "role": "student",
-      "description": "Civil engineer, not Susana's cousin 🇦🇷",
-        "image": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1665596207/og5y3s69gqutiqbduar8.jpg"
+      "properties": {
+        "title": "Mariana",
+        "role": "student",
+        "description": "Civil engineer, not Susana's cousin 🇦🇷",
+        "image": "https://res.cloudinary.com/wagon/image/upload/c_fill,g_face,h_200,w_200/v1675119728/ywfhu82tjpm4dl8es1lx.jpg"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-46.596,-23.683]
+        "coordinates": [-46.596, -23.683]
       },
-    "properties": {
-      "title": "Bruno",
-      "role": "student",
-      "description": "50 years of work experience, has an F1 podcast 🇧🇷",
-        "image": "https://avatars.githubusercontent.com/u/43788107?v=4"
+      "properties": {
+        "title": "Bruno",
+        "role": "student",
+        "description": "50 years of work experience, has an F1 podcast 🇧🇷",
+        "image": "https://avatars.githubusercontent.com/u/122285237?v=4"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [30.092,59.940]
+        "coordinates": [30.092, 59.94]
       },
-    "properties": {
-      "title": "Polina",
-      "role": "student",
-      "description": "Pastry chef, radio engeener and guitar player 🇷🇺",
-        "image" : "https://avatars.githubusercontent.com/u/106833120?v=4"
+      "properties": {
+        "title": "Polina",
+        "role": "student",
+        "description": "Pastry chef, radio engeener and guitar player 🇷🇺",
+        "image": "https://avatars.githubusercontent.com/u/120968838?v=4"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [34.969,31.398]
+        "coordinates": [34.969, 31.398]
       },
-    "properties": {
-      "title": "Oren",
-      "role": "student",
-      "description": "Living in Switzerland, loves to travel and wearing caps 🇨🇭🇮🇱",
-        "image" : "https://avatars.githubusercontent.com/u/106833120?v=4"
+      "properties": {
+        "title": "Oren",
+        "role": "student",
+        "description": "Living in Switzerland, loves to travel and wearing caps 🇨🇭🇮🇱",
+        "image": "https://avatars.githubusercontent.com/u/122773659?v=4"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [145.055,-37.978]
+        "coordinates": [145.055, -37.978]
       },
-    "properties": {
-      "title": "Tahli",
-      "role": "student",
-      "description": "Blair's human, very fashionable Aussie 🇦🇺",
-        "image" : "https://avatars.githubusercontent.com/u/106833120?v=4"
+      "properties": {
+        "title": "Tahli",
+        "role": "student",
+        "description": "Blair's human, very fashionable Aussie 🇦🇺",
+        "image": "https://avatars.githubusercontent.com/u/122308794?v=4"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [2.006,41.583]
+        "coordinates": [2.006, 41.583]
       },
-    "properties": {
-      "title": "Andres",
-      "role": "student",
-      "description": "Class youngest, as catalan as calçots 🇪🇸",
-        "image" : "https://avatars.githubusercontent.com/u/106833120?v=4"
+      "properties": {
+        "title": "Andres",
+        "role": "student",
+        "description": "Class youngest, as catalan as calçots 🇪🇸",
+        "image": "https://avatars.githubusercontent.com/u/122773983?v=4"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [2.195,41.437]
+        "coordinates": [2.195, 41.437]
       },
-    "properties": {
-      "title": "Linda",
-      "role": "student",
-      "description": "Not Lucia's dog, loves swimming and the beach 🇪🇸",
-        "image" : "https://avatars.githubusercontent.com/u/106833120?v=4"
+      "properties": {
+        "title": "Linda",
+        "role": "student",
+        "description": "Not Lucia's dog, loves swimming and the beach 🇪🇸",
+        "image": "https://avatars.githubusercontent.com/u/122693202?v=4"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [26.048,64.900]
+        "coordinates": [26.048, 64.9]
       },
-    "properties": {
-      "title": "Esther",
-      "role": "student",
-      "description": "Mother of six, speaks five languages 🇫🇮",
-        "image" : "https://avatars.githubusercontent.com/u/106833120?v=4"
+      "properties": {
+        "title": "Esther",
+        "role": "student",
+        "description": "Mother of six, speaks five languages 🇫🇮",
+        "image": "https://avatars.githubusercontent.com/u/117179636?v=4"
       }
     }
   ]
